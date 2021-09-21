@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,22 +23,16 @@ Users should be able to:
 ### Screenshot
 
 #### desktop version
+
 ![desktop version](./solution-images/desktop-version1.png)
 
 #### hover state
+
 ![hover version](./solution-images/hover-state1.png)
 
-
-
 #### mobile version
+
 ![mobile version](./solution-images/mobile-version1.png)
-
-
-
-
-
-
-
 
 ### Links
 
@@ -52,20 +46,15 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-
-
-
 ### What I learned
+
 This was my first practice after taking html and css course. I tried to use flexbox correctly and doing a responsive site.
 so I learend:
-* how to use flexbox
-* implementing a design
 
-
-
+- how to use flexbox
+- implementing a design
 
 ## Author
-
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Omar-Agha)
 - linkedin - [@yourusername](https://www.linkedin.com/in/omar-agha-20157620a/)
