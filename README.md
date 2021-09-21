@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://omar-agha.github.io/frontendmentor-challenge-1/)
+- Live Site URL: [visit live site](https://omar-agha.github.io/frontendmentor-challenge-1/)
 
 ## My process
 
