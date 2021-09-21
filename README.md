@@ -58,5 +58,3 @@ so I learend:
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Omar-Agha)
 - linkedin - [@yourusername](https://www.linkedin.com/in/omar-agha-20157620a/)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
